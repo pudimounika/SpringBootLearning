@@ -1,0 +1,30 @@
+java is a programming language and also a platform used to build software like
+web applications, mobile apps , desktop apps and backend systems
+what is java ?
+object-oriented programming language 
+Platform-independent(write once , run anywhere)
+used mainly for backend development 
+why java is popular?
+easy to learn(compared to many languages)
+very secure 
+runs on any system( windows,linux,Mac)
+Used in big companies 
+perfect for spring boot 
+How Java works
+u write code in .java file 
+Java compiler converts it to bytecode(.class)
+JVM(Java Virtual Machine) runs that bytecode 
+Because of JVM , java code runs on any OS.
+where Java is used?
+Web applications(Spring Boot)
+Android apps
+Banking & finance systems
+Cloud & microservices
+Desktop apps
+
+class Hello {
+ public static void main(String[] args) {
+   System.out.println("Hello Java");
+}
+}
+
